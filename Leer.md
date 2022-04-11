@@ -1,6 +1,7 @@
 # Repositorio
 
-% Usted puede encontrar cualquier tipo de  codigo en este sitio web. ¿Alguno de ellos es útil para usted? 
-% Utilice Crtl+C y Crtl+V a voluntad y sin discriminación.
+printf("Usted puede encontrar cualquier tipo de  codigo en este sitio web. ¿Alguno de ellos es útil para usted? \n")
 
-% Porque nada humnao me es ajeno.
+printf("Utilice Crtl+C y Crtl+V a voluntad y sin discriminación \n\n")
+
+printf("\t\t Porque nada humnao me es ajeno")
