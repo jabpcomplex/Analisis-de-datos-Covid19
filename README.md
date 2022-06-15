@@ -1,7 +1,7 @@
 # Repositorio
 
-printf("Usted puede encontrar cualquier tipo de  codigo en este sitio web. ¿Alguno de ellos es útil para usted? \n")
+Usted puede encontrar cualquier tipo de  codigo en este sitio web. ¿Alguno de ellos es útil para usted?
 
-printf("Utilice Crtl+C y Crtl+V a voluntad y sin discriminación \n\n")
+Utilice Crtl+C y Crtl+V a voluntad y sin discriminación
 
 **Porque nada humnao me es ajeno**
