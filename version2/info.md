@@ -9,4 +9,4 @@ Con mejores funciones facilitando así los calculos.
 
 
 
-[![Web|100](/jabpcomplex/jabpcomplex/jabpcomplex-ico.png)](https://github.com/jabpcomplex)
+[![Web|100](/jabpcomplex/jabpcomplex-ico.png)](https://github.com/jabpcomplex)
